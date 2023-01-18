@@ -1,0 +1,29 @@
+_repo: Just-sweethearts-A-Christmas-love-story_69685
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Edwards, Harry Stillwell
+    birthdate: 1855
+    deathdate: 1938
+    gutenberg_agent_id: '6154'
+    url: http://www.gutenberg.org/2009/agents/6154
+description: ''
+gutenberg_issued: '2023-01-02'
+identifiers:
+  gutenberg: '69685'
+language: en
+pgterms:marc904: https://archive.org/details/justsweethearts00edwagoog/page/n8/mode/2up
+pgterms:marc905: 20211217005149edwards
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: J. W. Burke Company,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Just sweethearts: A Christmas love story'
+url: http://www.gutenberg.org/ebooks/69685
