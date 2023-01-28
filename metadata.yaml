@@ -1,5 +1,8 @@
 _repo: Just-sweethearts-A-Christmas-love-story_69685
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69685-h/images/cover.jpg
 creator:
   author:
     agent_name: Edwards, Harry Stillwell
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '6154'
     url: http://www.gutenberg.org/2009/agents/6154
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69685#Just-sweethearts-A-Christmas-love-story
 gutenberg_issued: '2023-01-02'
 identifiers:
   gutenberg: '69685'
